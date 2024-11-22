@@ -1,0 +1,1722 @@
+[
+  {
+    "title": "OOP_CA5_Q1",
+        "content": "What analogy is used to explain the Single Responsibility Principle?",
+        "choices": [
+          {
+            "content": "Chef in a restaurant",
+            "is_correct": true
+          },
+          {
+            "content": "Building a house",
+            "is_correct": false
+          },
+          {
+            "content": "Using a universal remote control",
+            "is_correct": false
+          },
+          {
+            "content": "Programming a remote control",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q2",
+        "content": "What is the primary idea behind the Interface Segregation Principle?",
+        "choices": [
+          {
+            "content": "Classes should implement the largest possible interface to avoid rework",
+            "is_correct": false
+          },
+          {
+            "content": "Interfaces should be specific rather than general",
+            "is_correct": true
+          },
+          {
+            "content": "Multiple general interfaces are better than specific ones",
+            "is_correct": false
+          },
+          {
+            "content": "All interfaces should be large",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q3",
+        "content": "Which design principle is violated if a class is tasked with functionalities like networking, data persistence, and logging?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Interface Segregation Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q4",
+        "content": "What is an example of the Open/Closed Principle?",
+        "choices": [
+          {
+            "content": "A class that can be extended without modifying its source code",
+            "is_correct": true
+          },
+          {
+            "content": "A class that cannot be extended",
+            "is_correct": false
+          },
+          {
+            "content": "A class that is not using inheritance",
+            "is_correct": false
+          },
+          {
+            "content": "A class that cannot be instantiated",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q5",
+        "content": "How does the Dependency Inversion Principle enhance a software design?",
+        "choices": [
+          {
+            "content": "By using low-level modules extensively",
+            "is_correct": false
+          },
+          {
+            "content": "By relying on concrete classes",
+            "is_correct": false
+          },
+          {
+            "content": "By depending on abstractions rather than details",
+            "is_correct": true
+          },
+          {
+            "content": "By creating tight coupling between modules",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q6",
+        "content": "Why is the Dependency Inversion Principle important?",
+        "choices": [
+          {
+            "content": "To increase system reliability",
+            "is_correct": false
+          },
+          {
+            "content": "To reduce the ease and rigidity of the code",
+            "is_correct": false
+          },
+          {
+            "content": "To prevent classes from using subclasses of others",
+            "is_correct": false
+          },
+          {
+            "content": "To make the system more flexible and scalable",
+            "is_correct": true
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q7",
+        "content": "Which SOLID principle encourages the use of interfaces or abstract classes to achieve loose coupling",
+        "choices": [
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Interface Segregation Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q8",
+        "content": "Which of the following is not a direct advantage of applying SOLID principles?",
+        "choices": [
+          {
+            "content": "Improved flexibility",
+            "is_correct": false
+          },
+          {
+            "content": "Simplified debugging",
+            "is_correct": false
+          },
+          {
+            "content": "Increased complexity",
+            "is_correct": true
+          },
+          {
+            "content": "Better code reusability",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q9",
+        "content": "What does the Interface Segregation Principle help to avoid?",
+        "choices": [
+          {
+            "content": "Dependency on high-level modules",
+            "is_correct": false
+          },
+          {
+            "content": "Implementing unnecessary interfaces in classes",
+            "is_correct": true
+          },
+          {
+            "content": "Creation of abstract classes",
+            "is_correct": false
+          },
+          {
+            "content": "Use of multiple inheritance",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q10",
+        "content": "What principle is primarily concerned with reducing dependencies in software design?",
+        "choices": [
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q11",
+        "content": "What does the Dependency Inversion Principle primarily advocate for?",
+        "choices": [
+          {
+            "content": "High-level modules should not depend on low-level modules",
+            "is_correct": false
+          },
+          {
+            "content": "Dependencies should be injected",
+            "is_correct": false
+          },
+          {
+            "content": "Both A and B",
+            "is_correct": true
+          },
+          {
+            "content": "None of the above",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q12",
+        "content": "What does SOLID stand for in software design principles?",
+        "choices": [
+          {
+            "content": "Specific, Observable, Logical, Intelligent, Direct",
+            "is_correct": false
+          },
+          {
+            "content": "It does not stand for anything specific",
+            "is_correct": false
+          },
+          {
+            "content": "Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion",
+            "is_correct": true
+          },
+          {
+            "content": "Simple, Observable, Logical, Integrated, Dynamic",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q13",
+        "content": "How do design principles benefit software maintenance?",
+        "choices": [
+          {
+            "content": "They make maintenance more complex",
+            "is_correct": false
+          },
+          {
+            "content": "They make maintenance more costly",
+            "is_correct": false
+          },
+          {
+            "content": "They simplify maintenance",
+            "is_correct": true
+          },
+          {
+            "content": "They have no impact on maintenance",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q14",
+        "content": "Which programming paradigm is not directly related to Object-Oriented Programming?",
+        "choices": [
+          {
+            "content": "Procedural Programming",
+            "is_correct": false
+          },
+          {
+            "content": "Functional Programming",
+            "is_correct": false
+          },
+          {
+            "content": "Aspect-Oriented Programming",
+            "is_correct": false
+          },
+          {
+            "content": "All of the above",
+            "is_correct": true
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q15",
+        "content": "How does following design principles affect teamwork?",
+        "choices": [
+          {
+            "content": "It makes team management more difficult",
+            "is_correct": false
+          },
+          {
+            "content": "It standardizes problem-solving approaches",
+            "is_correct": true
+          },
+          {
+            "content": "It encourages code ownership",
+            "is_correct": false
+          },
+          {
+            "content": "It discourages collaboration",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q16",
+        "content": "What design pattern does the Laravel framework use to manage its services?",
+        "choices": [
+          {
+            "content": "Singleton",
+            "is_correct": false
+          },
+          {
+            "content": "Factory Method",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Injection",
+            "is_correct": true
+          },
+          {
+            "content": "Strategy",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q17",
+        "content": "Which principle is specifically aimed at avoiding premature optimization?",
+        "choices": [
+          {
+            "content": "YAGNI",
+            "is_correct": true
+          },
+          {
+            "content": "DRY",
+            "is_correct": false
+          },
+          {
+            "content": "KISS",
+            "is_correct": false
+          },
+          {
+            "content": "SOLID",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q18",
+        "content": "What does YAGNI stand for?",
+        "choices": [
+          {
+            "content": "You Always Need It",
+            "is_correct": false
+          },
+          {
+            "content": "You Aren't Gonna Need It",
+            "is_correct": true
+          },
+          {
+            "content": "Your Application Needs It",
+            "is_correct": false
+          },
+          {
+            "content": "You Are Not Gonna Implement",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q19",
+        "content": "What is the primary reason to follow design principles?",
+        "choices": [
+          {
+            "content": "To reduce the number of developers",
+            "is_correct": false
+          },
+          {
+            "content": "To decrease software processing speed",
+            "is_correct": false
+          },
+          {
+            "content": "To resolve common problems in software development",
+            "is_correct": true
+          },
+          {
+            "content": "To impress stakeholders",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q20",
+        "content": "Which SOLID principle would be violated if a new functionality is added by modifying existing tested and approved class code?",
+        "choices": [
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q21",
+        "content": "What is the primary goal of the Open/Closed Principle?",
+        "choices": [
+          {
+            "content": "To prevent any changes in the code",
+            "is_correct": false
+          },
+          {
+            "content": "To encourage frequent modification of the code",
+            "is_correct": false
+          },
+          {
+            "content": "To allow behavior extension without modifying existing code",
+            "is_correct": true
+          },
+          {
+            "content": "To discourage the extension of software functionalities",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q22",
+        "content": "Why is the Dependency Inversion Principle considered important for modern software development?",
+        "choices": [
+          {
+            "content": "It allows the use of older technologies",
+            "is_correct": false
+          },
+          {
+            "content": "It simplifies code dependencies",
+            "is_correct": true
+          },
+          {
+            "content": "It supports stronger coupling between classes",
+            "is_correct": false
+          },
+          {
+            "content": "It relies on concrete class implementations",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q23",
+        "content": "Which SOLID principle would be violated if a new functionality is added by modifying existing tested and approved class code?",
+        "choices": [
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q24",
+        "content": "How does the Interface Segregation Principle relate to client-specific functionality?",
+        "choices": [
+          {
+            "content": "Requires all clients to use the same interface",
+            "is_correct": false
+          },
+          {
+            "content": "Forces clients to implement unnecessary methods",
+            "is_correct": false
+          },
+          {
+            "content": "Promotes tailored interfaces for different clients",
+            "is_correct": true
+          },
+          {
+            "content": "Mandates a single interface for all functionality",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q25",
+        "content": "What can result from not following Liskov's Substitution Principle?",
+        "choices": [
+          {
+            "content": "Increased memory usage",
+            "is_correct": false
+          },
+          {
+            "content": "Unexpected behavior due to incorrect object substitution",
+            "is_correct": true
+          },
+          {
+            "content": "Reduced processing time",
+            "is_correct": false
+          },
+          {
+            "content": "Enhanced data security",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q26",
+        "content": "Which principle suggests that classes should rely on abstract classes or interfaces rather than concrete implementations?",
+        "choices": [
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Interface Segregation Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q27",
+        "content": "In the context of SOLID, what does the term \"responsibility\" in Single Responsibility Principle refer to?",
+        "choices": [
+          {
+            "content": "A class's ability to perform its functions",
+            "is_correct": false
+          },
+          {
+            "content": "A class's reason to change",
+            "is_correct": true
+          },
+          {
+            "content": "A class's processing power",
+            "is_correct": false
+          },
+          {
+            "content": "A class's user interface capabilities",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q28",
+        "content": "Which SOLID principle is specifically aimed at preventing the modification of existing code?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Interface Segregation Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q29",
+        "content": "What is the benefit of adhering to the Open/Closed Principle?",
+        "choices": [
+          {
+            "content": "Reduces the risk of errors during maintenance",
+            "is_correct": true
+          },
+          {
+            "content": "Makes the software dependent on external modules",
+            "is_correct": false
+          },
+          {
+            "content": "Forces the use of multiple programming languages",
+            "is_correct": false
+          },
+          {
+            "content": "Limits the software's functionality",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q30",
+        "content": "Which principle states that \"a class should have only one reason to change\"?",
+        "choices": [
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q31",
+        "content": "What principle emphasizes not repeating the same information in the code?",
+        "choices": [
+          {
+            "content": "KISS",
+            "is_correct": false
+          },
+          {
+            "content": "YAGNI",
+            "is_correct": false
+          },
+          {
+            "content": "DRY",
+            "is_correct": true
+          },
+          {
+            "content": "SOLID",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q32",
+        "content": "Which principle advises to implement features only when needed?",
+        "choices": [
+          {
+            "content": "DRY",
+            "is_correct": false
+          },
+          {
+            "content": "KISS",
+            "is_correct": false
+          },
+          {
+            "content": "YAGNI",
+            "is_correct": true
+          },
+          {
+            "content": "SOLID",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q33",
+        "content": "What is meant by \"Keep it simple, stupid\" (KISS)?",
+        "choices": [
+          {
+            "content": "Avoid unnecessary complexity",
+            "is_correct": true
+          },
+          {
+            "content": "Write code with the most features",
+            "is_correct": false
+          },
+          {
+            "content": "Write code that is easy to delete",
+            "is_correct": false
+          },
+          {
+            "content": "Always use the latest technology",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q34",
+        "content": "What design pattern does the Laravel framework use to manage its services?",
+        "choices": [
+          {
+            "content": "Singleton",
+            "is_correct": false
+          },
+          {
+            "content": "Factory Method",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Injection",
+            "is_correct": true
+          },
+          {
+            "content": "Strategy",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q35",
+        "content": "What principle is most likely to improve software performance?",
+        "choices": [
+          {
+            "content": "YAGNI",
+            "is_correct": false
+          },
+          {
+            "content": "KISS",
+            "is_correct": false
+          },
+          {
+            "content": "DRY",
+            "is_correct": false
+          },
+          {
+            "content": "All the above",
+            "is_correct": true
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q36",
+        "content": "What does the S in SOLID stand for?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": true
+          },
+          {
+            "content": "System Reliability Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Static Method Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Structured Programming Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q37",
+        "content": "What does the O in SOLID stand for?",
+        "choices": [
+          {
+            "content": "Object-Oriented Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Optimization Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Operational Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q38",
+        "content": "What does the L in SOLID stand for?",
+        "choices": [
+          {
+            "content": "Local Method Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Loop Optimization Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Low-Level Design Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q39",
+        "content": "What does the I in SOLID stand for?",
+        "choices": [
+          {
+            "content": "Interface Segregation Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Inheritance principle",
+            "is_correct": false
+          },
+          {
+            "content": "Initialization principle",
+            "is_correct": false
+          },
+          {
+            "content": "Iteration Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q40",
+        "content": "What does the D in SOLID stand for?",
+        "choices": [
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Data Integrity Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Design Flexibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Debugging Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q41",
+        "content": "According to Liskov's Substitution Principle, child classes should:",
+        "choices": [
+          {
+            "content": "Not be interchangeable with their parent class",
+            "is_correct": false
+          },
+          {
+            "content": "Be substitutable for their parent classes",
+            "is_correct": true
+          },
+          {
+            "content": "Always be simpler than their parent classes",
+            "is_correct": false
+          },
+          {
+            "content": "Have fewer methods than their parent classes",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q42",
+        "content": "What does the Interface Segregation Principle advocate for?",
+        "choices": [
+          {
+            "content": "Large, all-encompassing interfaces",
+            "is_correct": false
+          },
+          {
+            "content": "Multiple, specific client interfaces",
+            "is_correct": true
+          },
+          {
+            "content": "Minimal interface implementation",
+            "is_correct": false
+          },
+          {
+            "content": "Single, generic interfaces",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q43",
+        "content": "Which SOLID principle helps in reducing the impact of changes?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q44",
+        "content": "What is an example of violating the Single Responsibility Principle?",
+        "choices": [
+          {
+            "content": "A class that manages user authentication and session management",
+            "is_correct": true
+          },
+          {
+            "content": "A class that only handles database transactions",
+            "is_correct": false
+          },
+          {
+            "content": "A class designed to handle only logging",
+            "is_correct": false
+          },
+          {
+            "content": "A class that encapsulates only one method",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q45",
+        "content": "What is the primary goal of the Open/Closed Principle?",
+        "choices": [
+          {
+            "content": "To prevent any changes in the code",
+            "is_correct": false
+          },
+          {
+            "content": "To encourage frequent modification of the code",
+            "is_correct": false
+          },
+          {
+            "content": "To allow behavior extension without modifying existing code",
+            "is_correct": true
+          },
+          {
+            "content": "To discourage the extension of software functionalities",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q46",
+        "content": "Imagine a TV remote. It should only control the TV's functions, not your refrigerator. Which SOLID principle does this follow?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q47",
+        "content": " A plugin system allows you to add new features without changing the core application code. Which SOLID principle is applied here?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q48",
+        "content": "If a car can be replaced by an electric scooter in a \"\"drive\"\" method without breaking the system, what SOLID principle does this demonstrate?\t",
+        "choices": [
+          {
+            "content": "Single responsibility principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": true
+          },
+          {
+            "content": "Dependency Inversion Principle",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q49",
+        "content": "An electric drill has different heads for different types of screws. If each head has only the methods it needs, which SOLID principle is this?",
+        "choices": [
+          {
+            "content": "Single Responsibility Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Open/Closed Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Liskov Substitution Principle",
+            "is_correct": false
+          },
+          {
+            "content": "Interface Segregation Principle",
+            "is_correct": true
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA5_Q50",
+        "content": "How does adhering to the Dependency Inversion Principle benefit code in general?",
+        "choices": [
+          {
+            "content": "Promotes loose coupling, improves testability, and simplifies code maintenance. Changes to low-level implementations can be made without affecting high-level modules.",
+            "is_correct": true
+          },
+          {
+            "content": "Reduces the need for complex inheritance hierarchies.",
+            "is_correct": false
+          },
+          {
+            "content": "Improves code readability for beginners only.",
+            "is_correct": false
+          },
+          {
+            "content": "Makes debugging easier.",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+        "title": "OOP_CA5_Prog_Q1",
+        "content": "Design a simple Library Book Management System that adheres to the Single Responsibility Principle (SRP) by separating responsibilities among different classes. The program should take input for multiple books, store their details, and then display each book's information in a formatted manner.\n\n**Program Requirements:**  \n\nThe program should include three main components:\n\n1. **Book Class**\n   - **Purpose**: Stores details of a single book, such as title, author, and ISBN. This class should not handle any display functionality.\n   - **Attributes**:\n     - `String title`: The title of the book\n     - `String author`: The author of the book\n     - `String isbn`: The ISBN of the book\n   - **Constructor**: Accepts `title`, `author`, and `isbn` as parameters and initializes the book's attributes.\n   - **Getters**: Provides access to `title`, `author`, and `isbn`.\n\n2. **BookDisplay Class**\n   - **Purpose**: Handles the responsibility of displaying a book’s information. This class should solely handle the output, adhering to the Single Responsibility Principle.\n   - **Methods**:\n     - `void displayBookInfo(Book book)`: Accepts a `Book` object and prints its title, author, and ISBN in a formatted output.\n\n3. **Main Class** (for execution)\n   - **Purpose**: Takes input for multiple books, creates `Book` objects, and uses `BookDisplay` to show each book's information.\n\n**Input Format:**\n- The first line contains an integer `n`, the number of books.  \n- For each book, the next three lines provide:\n   - Title of the book\n   - Author of the book\n   - ISBN of the book\n\n**Example:**  \n```\nInput:\n------------\n3\nThe Alchemist\nPaulo Coelho\n9780061122415\nSiddhartha\nHermann Hesse\n9780553208849\nThe Art of War\nSun Tzu\n9781599869773\n\nOutput:\n---------------\nBook Information:\nTitle: The Alchemist\nAuthor: Paulo Coelho\nISBN: 9780061122415\nBook Information:\nTitle: Siddhartha\nAuthor: Hermann Hesse\nISBN: 9780553208849\nBook Information:\nTitle: The Art of War\nAuthor: Sun Tzu\nISBN: 9781599869773\n```",
+        "difficulty": "easy",
+        "test_cases": [
+          {
+            "input": "2\nCrime and Punishmenttt\nFyodor Dostoevsky\n9780140449136\nThe Brothers Karamazov\nFyodor Dostoevsky\n9780374528379",
+            "output": "Book Information:\nTitle: Crime and Punishmenttt\nAuthor: Fyodor Dostoevsky\nISBN: 9780140449136\nBook Information:\nTitle: The Brothers Karamazov\nAuthor: Fyodor Dostoevsky\nISBN: 9780374528379",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nThe Picture of Dorian\nOscar Wilde\n9780141439570",
+            "output": "Book Information:\nTitle: The Picture of Dorian\nAuthor: Oscar Wilde\nISBN: 9780141439570",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "3\nThe Alchemist\nPaulo Coelho\n9780061122415\nSiddhartha\nHermann Hesse\n9780553208849\nThe Art of War\nSun Tzu\n9781599869773",
+            "output": "Book Information:\nTitle: The Alchemist\nAuthor: Paulo Coelho\nISBN: 9780061122415\nBook Information:\nTitle: Siddhartha\nAuthor: Hermann Hesse\nISBN: 9780553208849\nBook Information:\nTitle: The Art of War\nAuthor: Sun Tzu\nISBN: 9781599869773\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nThe Grapes of Wrath\nJohn Steinbeck\n9780143039433\nOf Mice and Men\nJohn Steinbeck\n9780140177398",
+            "output": "Book Information:\nTitle: The Grapes of Wrath\nAuthor: John Steinbeck\nISBN: 9780143039433\n\nBook Information:\nTitle: Of Mice and Men\nAuthor: John Steinbeck\nISBN: 9780140177398",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nThe Picture of Dorian Gray\nOscar Wilde\n9780141439570",
+            "output": "Book Information:\nTitle: The Picture of Dorian Gray\nAuthor: Oscar Wilde\nISBN: 9780141439570",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nCrime and Punishment\nFyodor Dostoevsky\n9780140449136\nThe Brothers Karamazov\nFyodor Dostoevsky\n9780374528379",
+            "output": "Book Information:\nTitle: Crime and Punishment\nAuthor: Fyodor Dostoevsky\nISBN: 9780140449136\nBook Information:\nTitle: The Brothers Karamazov\nAuthor: Fyodor Dostoevsky\nISBN: 9780374528379\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nLittle Women\nLouisa May Alcott\n9781503212825",
+            "output": "Book Information:\nTitle: Little Women\nAuthor: Louisa May Alcott\nISBN: 9781503212825",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nBrave New World\nAldous Huxley\n9780060850524\nThe Catcher in the Rye\nJ.D. Salinger\n9780316769488\nWar and Peace\nLeo Tolstoy\n9780199232765",
+            "output": "Book Information:\nTitle: Brave New World\nAuthor: Aldous Huxley\nISBN: 9780060850524\nBook Information:\nTitle: The Catcher in the Rye\nAuthor: J.D. Salinger\nISBN: 9780316769488\nBook Information:\nTitle: War and Peace\nAuthor: Leo Tolstoy\nISBN: 9780199232765",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nPride and Prejudice\nJane Austen\n9781503290563\nMoby-Dick\nHerman Melville\n978150328078",
+            "output": "Book Information:\nTitle: Pride and Prejudice\nAuthor: Jane Austen\nISBN: 9781503290563\nBook Information:\nTitle: Moby-Dick\nAuthor: Herman Melville\nISBN: 978150328078",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q2",
+        "content": "Design and implement a Movie Rating System that uses Object-Oriented Programming (OOP) principles, particularly focusing on the Open/Closed Principle from the SOLID principles. This system will allow users to input movie names along with their ratings and get feedback based on those ratings.\n\n**Classes:**\n1. **Movie Class** (Base Class)\n   - **Purpose**: Stores the name of a movie.\n   - **Attributes**:\n     - `private String name`: Holds the name of the movie.\n   - **Constructor**: Initializes the movie name.\n   - **Methods**:\n     - `String getName()`: Returns the name of the movie.\n\n2. **RatedMovie Class** (Derived Class)\n   - **Purpose**: Extends `Movie` and adds a rating to the movie.\n   - **Attributes**:\n     - `private int rating`: Stores the movie rating (must be between 1 and 5).\n   - **Constructor**: Initializes both the movie name and rating.\n   - **Methods**:\n     - `String getRatingMessage()`: Returns a message based on the rating:\n       - **1-2**: \"Bad Movie: \\<movie name\\>\"\n       - **3-4**: \"Average Movie: \\<movie name\\>\"\n       - **5**: \"Hit Movie: \\<movie name\\>\"\n       - **Outside 1-5**: \"Invalid rating!\"\n\n**Input Format:**\n1. The first line contains an integer `n` representing the number of movie entries.\n2. For each movie:\n   - The first line is the movie name.\n   - The second line is the movie rating (an integer).\n\n\n**Example 1:**\n```\nInput:\n----------\n3 \nThe Great Adventure \n4 \nSilent Night \n2 \nEpic Quest \n5 \n\nOutput:\n------------\nAverage Movie: The Great Adventure \nBad Movie: Silent Night \nHit Movie: Epic Quest\n```\n\n",
+        "difficulty": "easy",
+        "test_cases": [
+          {
+            "input": "3\nThe Great Adventure\n4\nSilent Night \n2\nEpic Quest\n5",
+            "output": "Average Movie: The Great Adventure \nBad Movie: Silent Night \nHit Movie: Epic Quest",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "3\nTwilight\n3\nAvatar\n4\nFrozen\n0",
+            "output": "Average Movie: Twilight\nAverage Movie: Avatar\nInvalid rating!",
+            "visibility": "hidden",
+            "points": 2
+          },
+          {
+            "input": "2\nThe Room\n1\nThe Matrix\n5",
+            "output": "Bad Movie: The Room\nHit Movie: The Matrix",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nJaws\n2\nGladiator\n4\nLa La Land\n5",
+            "output": "Bad Movie: Jaws\nAverage Movie: Gladiator\nHit Movie: La La Land",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nForrest Gump\n5\nPulp Fiction\n3",
+            "output": "Hit Movie: Forrest Gump\nAverage Movie: Pulp Fiction",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nSharknado\n1",
+            "output": "Bad Movie: Sharknado",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nThe Godfather\n3",
+            "output": "Average Movie: The Godfather",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nTitanic\n4",
+            "output": "Average Movie: Titanic",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nCats\n2",
+            "output": "Bad Movie: Cats",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q3",
+        "content": "In this problem, you will design an online product management system that allows users to manage and retrieve prices for different types of products. The system adheres to the **Liskov Substitution Principle (LSP)** in Object-Oriented Programming, ensuring that derived classes (`DigitalProduct` and `PhysicalProduct`) can substitute the base class (`Product`) without affecting the program's correctness.\n\n**Class Structure:**\n\n1. **Product Class** (Base Class)\n   - **Attributes**:\n     - `String name`: The name of the product.\n     - `double price`: The base price of the product.\n   - **Constructor**:\n     - `Product(String name, double price)`: Initializes the product with its name and price.\n   - **Methods**:\n     - `abstract double getPrice()`: An abstract method that calculates the price based on product type. This method must be implemented by all derived classes.\n\n2. **DigitalProduct Class** (Derived Class)\n   - **Inherits from**: `Product`\n   - **Constructor**:\n     - `DigitalProduct(String name, double price)`: Calls the base class constructor to initialize the digital product.\n   - **Methods**:\n     - `double getPrice()`: Overrides the base class method to apply a 10% discount on the price.\n\n3. **PhysicalProduct Class** (Derived Class)\n   - **Inherits from**: `Product`\n   - **Constructor**:\n     - `PhysicalProduct(String name, double price)`: Calls the base class constructor to initialize the physical product.\n   - **Methods**:\n     - `double getPrice()`: Overrides the base class method to add a shipping fee of 5 units to the price.\n\n**Input Format:**\n1. The first line of input contains an integer representing the number of products.\n2. For each product:\n   - The first line specifies the type of product (either \"Digital\" or \"Physical\").\n   - The second line specifies the name of the product.\n   - The third line specifies the price of the product as a double value.\n\n**Example-1:**\n```\nInput:\n----------\n1 \nDigital \nLaptop \n20000\n\nOutput:\n-----------\nPrice of Laptop: 18000.0\n```\n",
+        "difficulty": "easy",
+        "test_cases": [
+          {
+            "input": "1\nDigital\nLaptop\n20000",
+            "output": "Price of Laptop: 18000.0",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "2\nDigital\nLaptop\n20000\nPhysical\nBag\n800",
+            "output": "Price of Laptop: 18000.0\nPrice of Bag: 805.0",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "2\nPhysical\nDesk\n2500\nDigital\nMagazine\n100",
+            "output": "Price of Desk: 2505.0\nPrice of Magazine: 90.0\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nDigital\nMovie Subscription\n120",
+            "output": "Price of Movie Subscription: 108.0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nPhysical\nBackpack\n700\nDigital\nGame\n60\nPhysical\nHeadphones\n2000",
+            "output": "Price of Backpack: 705.0\nPrice of Game: 54.0\nPrice of Headphones: 2005.0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nPhysical\nBook\n100\nDigital\nOnline Course\n1500",
+            "output": "Price of Book: 105.0\nPrice of Online Course: 1350.0\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nDigital\nSoftware License\n5000",
+            "output": "Price of Software License: 4500.0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nDigital\nMusic Album\n100\nPhysical\nShoes\n1200\nPhysical\nWatch\n3000",
+            "output": "Price of Music Album: 90.0\nPrice of Shoes: 1205.0\nPrice of Watch: 3005.0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nPhysical\nTable\n1500",
+            "output": "Price of Table: 1505.0",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q4",
+        "content": "Design a simple management system for smart home devices, specifically smart lights. The design should adhere to the Interface Segregation Principle (ISP), which emphasizes that clients should not be forced to depend on interfaces they do not use. Implement classes for smart lights that can connect to WiFi and adjust brightness levels.\n\n**Requirements:**\n1. **Device Interface**\n   - Define an interface named `Device` with the following method:\n     - `void turnOn()`: This method should be implemented to indicate that the device is powered on.\n\n2. **WiFiConnectable Interface**\n   - Define another interface named `WiFiConnectable` with the following method:\n     - `void connectToWiFi(String ssid)`: This method should allow the device to connect to a specific WiFi network, taking the SSID as input.\n\n**Class requirements:**\n\n1. **SmartLight Class**\n   - Implement a class named `SmartLight` that implements both `Device` and `WiFiConnectable` interfaces.\n   - **Methods**:\n     - `void turnOn()`: Prints \"Smart Light is turned on.\"\n     - `void connectToWiFi(String ssid)`: Prints \"Connected to WiFi with SSID: [ssid].\"\n     - `void setBrightness(int level)`: Prints \"Brightness set to [level]%.\" This method validates that the brightness level is between 0 and 100. If out of range, it should print \"Invalid brightness level. Please set a value between 0 and 100.\"\n\n**Input Format:**\n\n1. The first line contains an integer representing the number of smart lights (e.g., `2`).\n2. For each smart light:\n   - The first line is the WiFi SSID (e.g., `HomeWiFi`).\n   - The second line is the brightness level as an integer (e.g., `75`).\n\n**Example-1:**\n```\nInput:\n2\nHomeWiFi\n75\nOfficeWifi\n55\n\nOutput:\nSmart Light is turned on.\nConnected to WiFi with SSID: HomeWiFi.\nBrightness set to 75%.\nSmart Light is turned on.\nConnected to WiFi with SSID: OfficeWifi.\nBrightness set to 55%.\n```\n\n",
+        "difficulty": "easy",
+        "test_cases": [
+          {
+            "input": "1\nHomeWiFi\n75",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: HomeWiFi.\nBrightness set to 75%.",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "2\nHomeWiFi\n55\nOfficeWifi\n110",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: HomeWiFi.\nBrightness set to 55%.\nSmart Light is turned on.\nConnected to WiFi with SSID: OfficeWifi.\nInvalid brightness level. Please set a value between 0 and 100.",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nGuestWifi\n20",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: GuestWifi.\nBrightness set to 20%.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nLivingRoomWiFi\n100\nKitchenWiFi\n0",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: LivingRoomWiFi.\nBrightness set to 100%.\nSmart Light is turned on.\nConnected to WiFi with SSID: KitchenWiFi.\nBrightness set to 0%.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nBedroomWiFi\n101",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: BedroomWiFi.\nInvalid brightness level. Please set a value between 0 and 100.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nBalconyWiFi\n45\nGardenWiFi\n85\nGarageWiFi\n15",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: BalconyWiFi.\nBrightness set to 45%.\nSmart Light is turned on.\nConnected to WiFi with SSID: GardenWiFi.\nBrightness set to 85%.\nSmart Light is turned on.\nConnected to WiFi with SSID: GarageWiFi.\nBrightness set to 15%.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nGuestWiFi\n90\nMainHallWiFi\n50",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: GuestWiFi.\nBrightness set to 90%.\nSmart Light is turned on.\nConnected to WiFi with SSID: MainHallWiFi.\nBrightness set to 50%.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nBathroomWiFi\n30\nStorageWiFi\n102\nDiningRoomWiFi\n75",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: BathroomWiFi.\nBrightness set to 30%.\nSmart Light is turned on.\nConnected to WiFi with SSID: StorageWiFi.\nInvalid brightness level. Please set a value between 0 and 100.\nSmart Light is turned on.\nConnected to WiFi with SSID: DiningRoomWiFi.\nBrightness set to 75%.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nStudyWiFi\n50",
+            "output": "Smart Light is turned on.\nConnected to WiFi with SSID: StudyWiFi.\nBrightness set to 50%.\n",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q5",
+        "content": "Design a simple Plant Watering System that organizes plants based on their type and provides a clear schedule for watering them. This system should adhere to the Dependency Inversion Principle, allowing for easy extension and maintenance of the code. Implement a simple console application that allows users to input various plants and their corresponding watering schedules. \n\n**Requirements:**\n1. **Plant Interface**\n   - Create an interface named `Plant` with the following method:\n     - `String getWateringSchedule()`: Method that returns a string representation of the plant's watering schedule.\n\n2. **Cactus Class**\n   - Implement a class named `Cactus` that implements the `Plant` interface.\n   - **Attributes**:\n     - Constructor that takes the plant's name and watering duration as parameters.\n   - **Methods**:\n     - `getWateringSchedule()`: Returns a formatted string indicating the type of plant, its name, and its watering duration.\n\n3. **Fern Class**\n   - Implement a class named `Fern` that also implements the `Plant` interface.\n   - **Attributes**:\n     - Constructor that takes the plant's name and watering duration as parameters.\n   - **Methods**:\n     - `getWateringSchedule()`: Returns a formatted string indicating the type of plant, its name, and its watering duration.\n\n4. **WateringSystem Class**\n   - Create a class named `WateringSystem` that contains the following method:\n     - `void addPlant(Plant plant)`: Accepts a `Plant` object and immediately prints the watering schedule of the added plant.\n\n**Input Format:**\n\n1. The first line contains an integer `n` (1 ≤ n ≤ 100), representing the number of plants.\n2. For each plant, the following lines provide the details:\n   - **Line 1**: Plant type (either `\"Cactus\"` or `\"Fern\"`)\n   - **Line 2**: Plant name (a string)\n   - **Line 3**: Watering duration (a string, e.g., `\"Daily\"`, `\"Weekly\"`)\n\n**Example-1:**\n```\nInput:\n-------------\n2\nCactus\nSpiky\nDaily\nFern\nLeafy\nWeekly\n\nOutput:\n-------------\nCactus: Spiky, Watering duration: Daily\nFern: Leafy, Watering duration: Weekly\n```\n",
+        "difficulty": "easy",
+        "test_cases": [
+          {
+            "input": "2\nCactus\nSpiky\nDaily\nFern\nLeafy\nWeekly",
+            "output": "Cactus: Spiky, Watering duration: Daily\nFern: Leafy, Watering duration: Weekly",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nCactus\nGolden Barrel\nWeekly",
+            "output": "Cactus: Golden Barrel, Watering duration: Weekly",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nFern\nBoston Fern\nDaily",
+            "output": "Fern: Boston Fern, Watering duration: Daily",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nCactus\nDesert Gem\nMonthly\nFern\nMaidenhair\nTwice a Week\nFern\nStaghorn\nDaily",
+            "output": "Cactus: Desert Gem, Watering duration: Monthly\nFern: Maidenhair, Watering duration: Twice a Week\nFern: Staghorn, Watering duration: Daily",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nFern\nKimberly Queen\nDaily\nCactus\nSaguaro\nMonthly",
+            "output": "Fern: Kimberly Queen, Watering duration: Daily\nCactus: Saguaro, Watering duration: Monthly",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nCactus\nOld Man Cactus\nTwice a Month\nFern\nBird's Nest\nWeekly\nFern\nBoston Fern\nBiweekly",
+            "output": "Cactus: Old Man Cactus, Watering duration: Twice a Month\nFern: Bird's Nest, Watering duration: Weekly\nFern: Boston Fern, Watering duration: Biweekly",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nCactus\nMoon Cactus\nMonthly",
+            "output": "Cactus: Moon Cactus, Watering duration: Monthly",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nFern\nAsparagus Fern\nDaily\nCactus\nChristmas Cactus\nBiweekly",
+            "output": "Fern: Asparagus Fern, Watering duration: Daily\nCactus: Christmas Cactus, Watering duration: Biweekly",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nCactus\nQueen of the Night\nMonthly\nFern\nEagle Fern\nWeekly\nFern\nAutumn Fern\nBiweekly",
+            "output": "Cactus: Queen of the Night, Watering duration: Monthly\nFern: Eagle Fern, Watering duration: Weekly\nFern: Autumn Fern, Watering duration: Biweekly",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q6",
+        "content": "Design and implement a program that manages an address book while strictly following the Single Responsibility Principle (SRP). The program should handle various operations on entries, such as adding, updating, removing, and displaying the count of successful operations, as well as the total number of entries left in the address book. The objective is to ensure that each operation serves a single purpose and that the design structure keeps code organized and easy to maintain.\n\n**Functionality Requirements:**\n\n1. **Add Entry (ADD)**:\n   - Adds a new entry with a specified `name` and `email` to the address book.\n   - If an entry with the same `name` already exists, updates the email for that entry.\n   - Both additions and updates are counted as successful operations.\n   - **Output**:\n     - Print `Added (name)` if the entry is new.\n     - Print `Updated (name)` if the entry already exists and was updated.\n\n2. **Remove Entry (REMOVE)**:\n   - Removes the last entry from the address book.\n   - This operation does not count as a successful operation.\n   - **Output**:\n     - Print `Removed (name)` indicating the last entry removed.\n     - Print `Removed None` if the address book is empty.\n\n3. **Display Operations Count (SHOWCOUNT)**:\n   - After processing all commands, display the following:\n     - Total number of successful operations (additions and updates).\n     - Total number of entries remaining in the address book.\n   - **Output**:\n     - Print `Total successful operations: <successful_operations_count>`\n     - Print `Total entries: <entries_count>`\n\n**Input Format:**\n1. **First line**: An integer `n`, representing the number of commands to process.\n2. **Next `n` lines**: Commands, which can be one of the following:\n   - `ADD <name> <email>`: For adding or updating an entry.\n   - `REMOVE`: For removing the last entry.\n   - `SHOWCOUNT`: For displaying the count of operations and remaining entries.\n\n**Output Format:**\n- For each `ADD` command:\n  - Print `Added (name)` if the name is new.\n  - Print `Updated (name)` if the name already exists.\n- For each `REMOVE` command:\n  - Print `Removed (name)` or `Removed None` if no entries are present.\n- For the `SHOWCOUNT` command:\n  - Print `Total successful operations: <successful_operations_count>`\n  - Print `Total entries: <entries_count>`\n\n**Suggested Class Structure:**\n1. **Entry Class**:\n   - Holds the data for each address book entry, including `name` and `email`.\n\n2. **AddressBook Class**:\n   - Manages the list of `Entry` objects and implements methods for adding, updating, removing entries, and showing counts.\n\n3. **Solution/Main Class**:\n   - Handles reading input, processing commands, and invoking the appropriate methods in `AddressBook`.\n\n**Example 1**\n```\nInput:\n------------\n5\nADD \nAlice \nalice@example.com\nADD \nBob \nbob@example.com\nADD \nAlice \nalice_new@example.com\nREMOVE\nSHOWCOUNT\n\nOutput:\n------------\nAdded Alice\nAdded Bob\nUpdated Alice\nRemoved Bob\nTotal successful operations: 3\nTotal entries: 1\n```\n",
+        "difficulty": "medium",
+        "test_cases": [
+          {
+            "input": "5\nADD\nAlice\nalice@example.com\nADD\nBob\nbob@example.com\nADD\nAlice\nalice_new@example.com\nREMOVE\nSHOWCOUNT",
+            "output": "Added Alice\nAdded Bob\nUpdated Alice\nRemoved Bob\nTotal successful operations: 3\nTotal entries: 1",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "3\nREMOVE\nADD\nMike\nmike@example.com\nSHOWCOUNT",
+            "output": "Removed None\nAdded Mike\nTotal successful operations: 1\nTotal entries: 1",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "3\nADD\nCharlie\ncharlie@example.com\nREMOVE\nSHOWCOUNT",
+            "output": "Added Charlie\nRemoved Charlie\nTotal successful operations: 1\nTotal entries: 0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "6\nADD\nEmma\nemma@example.com\nADD\nLiam\nliam@example.com\nADD\nEmma\nemma_new@example.com\nADD\nOlivia\nolivia@example.com\nREMOVE\nSHOWCOUNT",
+            "output": "Added Emma\nAdded Liam\nUpdated Emma\nAdded Olivia\nRemoved Olivia\nTotal successful operations: 4\nTotal entries: 2",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "6\nADD\nZoe\nzoe@example.com\nADD\nAlex\nalex@example.com\nADD\nZoe\nzoe_updated@example.com\nREMOVE\nADD\nMike\nmike@example.com\nSHOWCOUNT",
+            "output": "Added Zoe\nAdded Alex\nUpdated Zoe\nRemoved Alex\nAdded Mike\nTotal successful operations: 4\nTotal entries: 2",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nREMOVE\nADD\nNoah\nnoah@example.com\nSHOWCOUNT",
+            "output": "Removed None\nAdded Noah\nTotal successful operations: 1\nTotal entries: 1",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "5\nADD\nAiden\naiden@example.com\nADD\nAiden\naiden_new@example.com\nADD\nMia\nmia@example.com\nREMOVE\nSHOWCOUNT",
+            "output": "Added Aiden\nUpdated Aiden\nAdded Mia\nRemoved Mia\nTotal successful operations: 3\nTotal entries: 1",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "6\nADD\nOliver\noliver@example.com\nADD\nCharlotte\ncharlotte@example.com\nADD\nOliver\noliver_new@example.com\nREMOVE\nREMOVE\nSHOWCOUNT",
+            "output": "Added Oliver\nAdded Charlotte\nUpdated Oliver\nRemoved Charlotte\nRemoved Oliver\nTotal successful operations: 3\nTotal entries: 0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "7\nADD\nLucas\nlucas@example.com\nADD\nElla\nella@example.com\nADD\nLucas\nlucas_new@example.com\nADD\nEmma\nemma@example.com\nREMOVE\nREMOVE\nSHOWCOUNT",
+            "output": "Added Lucas\nAdded Ella\nUpdated Lucas\nAdded Emma\nRemoved Emma\nRemoved Ella\nTotal successful operations: 4\nTotal entries: 1",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q7",
+        "content": "You are tasked implementing a vehicle registration system that handles different types of vehicles and calculates their registration fees based on specific attributes. The system should initially handle two types of vehicles: Cars and Motorcycles. Each vehicle type has a method to calculate its registration fee based on specific rules.\n\nFor Cars, the registration fee calculation is based on engine capacity:\n- Cars with an engine capacity of 2000cc or less have a fee of `$100`.\n- Cars with an engine capacity of more than 2000cc have a fee of `$150`.\n\nFor Motorcycles, the fee calculation is based on the vehicle's age:\n- Motorcycles less than 5 years old have a fee of `$50`.\n- Motorcycles 5 years or older have a fee of `$30`.\n\nAdhere to the Open/Closed Principle in your design: the classes should be open for extension (easy to add new vehicle types) but closed for modification. You must design your classes to easily incorporate additional vehicle types (like Trucks or Buses) in the future without modifying the existing class code.\n\nCreate a program that:\n1. Defines a base class for a `Vehicle` with an abstract method to calculate the registration fee.\n2. Extends this base class with specific classes for `Car` and `Motorcycle` that implement their respective fee calculations based on the rules provided.\n3. In the main function, reads the type of vehicle and its attributes from the input, creates the corresponding vehicle object, and outputs the registration fee.\n\n**Input format:**\n```\n<VehicleType>\n<AttributeValue>\n```\n\n- **`VehicleType`**: The type of vehicle (e.g., `Car`, `Motorcycle`).\n- **`AttributeValue`**: An integer representing:\n  - **Engine Capacity (in cc)** for Cars.\n  - **Age (in years)** for Motorcycles.\n\n**Output format:**\n- **If the vehicle type and attribute are valid:**\n  ```\n  <RegistrationFee>\n  ```\n  Where `<RegistrationFee>` is the calculated fee based on the provided rules.\n\n- **If the vehicle type is invalid:**\n  ```\n  Invalid vehicle type\n  ``` \n\n#### Sample I/O \n**Example 1:**\n```\nInput\nCar \n1800\n\nOutput\n100\n```\n\n**Example 2:**\n```\nInput\nCar \n2200\n\nOutput\n150\n```\n\n**Example 3:**\n```\nInput\nMotorcycle \n3\n\nOutput\n50\n```\n\n**Example 4:**\n```\nInput\nMotorcycle \n6\n\nOutput\n30\n```\n\n**Example 5:**\n```\nInput\nBus\n\nOutput\nInvalid vehicle type\n```",
+        "difficulty": "medium",
+        "test_cases": [
+          {
+            "input": "Car\n1800",
+            "output": "100",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "Car\n2200",
+            "output": "150",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "Motorcycle\n3",
+            "output": "50",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "Motorcycle\n6",
+            "output": "30",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "Bus",
+            "output": "Invalid vehicle type",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "Motorcycle\n4",
+            "output": "50",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "Motorcycle\n7",
+            "output": "30",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "Truck",
+            "output": "Invalid vehicle type",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "Car\n2300",
+            "output": "150",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q8",
+        "content": "Implement a **payment system** where users can make payments from **different types of accounts** (`SavingsAccount` and `CheckingAccount`). Each account type must follow **specific rules for processing payments**, and all accounts must adhere to the **Liskov Substitution Principle (LSP)**:  \n\n**Any subclass should be able to replace the base class without altering the expected behavior of the system.**\n\nYour goal is to design a **flexible payment system** by building a base class `Account` and extending it to create different account types while ensuring **correct payment rules** are applied for each type.\n\n**Requirements:**\n   - **`Account` (Base Class)**:\n     - Contains a **`processPayment(double amount)`** method to deduct the payment from the account balance.\n     - Must provide consistent behavior for all account types.\n     - Includes a **protected balance** member to track the current balance.\n\n   - **`SavingsAccount` (Derived Class)**:\n     - Implements the `processPayment` method.\n     - Ensures that the **minimum account balance after payment** remains **$100**. \n     - If the balance falls below $100 after the payment, print a **warning** and do not process the payment.\n\n   - **`CheckingAccount` (Derived Class)**:\n     - Implements the `processPayment` method.\n     - Deducts a **transaction fee of $10** in addition to the payment amount.\n     - If the **balance is insufficient** to cover both the payment and the fee, print a **warning** and do not process the payment.\n\n**Functionality Requirements:**\n1. **Create multiple account objects** based on user input.\n2. **Process payments** according to the rules for each account type.\n3. **Display appropriate warnings** for invalid payments:\n   - For SavingsAccount: If the **minimum balance** requirement is not met.\n   - For CheckingAccount: If there are **insufficient funds** to cover the **payment + transaction fee**.\n4. **Adhere to Liskov Substitution Principle (LSP)**:\n   - The **`processPayment()`** method should behave consistently across different account types.\n\n**Input Format:**\n1. **First line:** Number of accounts to process (`n`).\n2. **Next `n` blocks:** Each block consists of:\n   - Account type: `\"Savings\"` or `\"Checking\"`.\n   - Initial balance of the account (double).\n   - Payment amount (double).\n\n**Output Fornat:**\n- For **SavingsAccount**:  \n  - If payment is **successful**:\n    ```\n    Payment of $<amount> processed from SavingsAccount. New balance: $<new_balance>\n    ```\n    ---\n\n  - If the **minimum balance** requirement is not met:\n    ```\n    Warning: Payment of $<amount> cannot be processed from SavingsAccount. Minimum balance requirement not met.\n    ```\n---\n\n- For **CheckingAccount**:  \n  - If payment is **successful**:\n    ```\n    Payment of $<amount> processed from CheckingAccount, fee applied. New balance: $<new_balance>\n    ```\n    --- \n\n  - If **insufficient funds** to cover the payment + fee:\n    ```\n    Warning: Insufficient funds to cover the payment and fee in CheckingAccount.\n    ```\n\n**Example 1: Valid Savings Account Payment**\n```\nInput:\n1\nSavings\n500.0\n450.0\n\nOutput:\nWarning: Payment of $450.0 cannot be processed from SavingsAccount. Minimum balance requirement not met.\n```\n\n**Example 2: Successful Checking Account Payment**\n```\nInput:\n1\nChecking\n500.0\n450.0\n\nOutput:\nPayment of $450.0 processed from CheckingAccount, fee applied. New balance: $40.0\n```\n\n**Example 3: Insufficient Funds in Checking Account**\n```\nInput:\n1\nChecking\n100.0\n95.0\n\nOutput:\nWarning: Insufficient funds to cover the payment and fee in CheckingAccount.\n```\n",
+        "difficulty": "medium",
+        "test_cases": [
+          {
+            "input": "2\nSavings\n500\n450\nChecking\n500\n450",
+            "output": "Warning: Payment of $450.0 cannot be processed from SavingsAccount. Minimum balance requirement not met.\nPayment of $450.0 processed from CheckingAccount, fee applied. New balance: $40.0",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nSavings\n300\n150",
+            "output": "Payment of $150.0 processed from SavingsAccount. New balance: $150.0\n",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nChecking\n200\n100",
+            "output": "Payment of $100.0 processed from CheckingAccount, fee applied. New balance: $90.0\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nSavings\n1000\n950\nChecking\n1000\n950",
+            "output": "Warning: Payment of $950.0 cannot be processed from SavingsAccount. Minimum balance requirement not met.\nPayment of $950.0 processed from CheckingAccount, fee applied. New balance: $40.0\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nChecking\n50\n25",
+            "output": "Payment of $25.0 processed from CheckingAccount, fee applied. New balance: $15.0",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nSavings\n600\n500\nChecking\n400\n200",
+            "output": "Payment of $500.0 processed from SavingsAccount. New balance: $100.0\nPayment of $200.0 processed from CheckingAccount, fee applied. New balance: $190.0\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nSavings\n150\n149",
+            "output": "Warning: Payment of $149.0 cannot be processed from SavingsAccount. Minimum balance requirement not met.\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nChecking\n300\n295",
+            "output": "Warning: Insufficient funds to cover the payment and fee in CheckingAccount.\n",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nSavings\n800\n100\nChecking\n100\n50",
+            "output": "Payment of $100.0 processed from SavingsAccount. New balance: $700.0\nPayment of $50.0 processed from CheckingAccount, fee applied. New balance: $40.0\n",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q9",
+        "content": "Design a media player system that demonstrates the Interface Segregation Principle (ISP) by separating functionalities into dedicated interfaces for audio and video playback. This separation ensures that players designed to handle specific media types (like audio-only or multimedia) can operate without depending on unnecessary interfaces.\n\n**Requirements:**\n1. **Audio Playback**:\n   - Implemented via an `AudioPlayer` interface.\n   - **Memory Calculation**: For each second of playback, an audio file uses 0.5 MB.\n   - **Method**: `playAudio(int lengthInSeconds)`\n\n2. **Video Playback**:\n   - Implemented via a `VideoPlayer` interface.\n   - **Memory Calculation**: For each second of playback, a video file uses 1.5 MB.\n   - **Method**: `playVideo(int lengthInSeconds)`\n\n**Classes to Implement:**\n1. **MP3Player Class**\n   - Implements the `AudioPlayer` interface.\n   - Supports **audio playback only**.\n   - Attempts to play video should result in an error message indicating that video playback is unsupported.\n\n2. **MultimediaPlayer Class**\n   - Implements both `AudioPlayer` and `VideoPlayer` interfaces.\n   - Supports playback of both **audio and video files**.\n\n\n**Input Format**:\n1. The first line contains an integer `n`, representing the number of operations.\n2. Each of the next `n` lines contains:\n   - `Player type`: Either `\"MP3Player\"` or `\"MultimediaPlayer\"`.\n   - `Action`: `\"playAudio\"` or `\"playVideo\"`.\n   - `Length of playback in seconds` (an integer).\n\n**Output Format**:  \nFor each operation:\n- If the action is `playAudio`, output: `\"Audio memory usage: <memory> MB\"`\n- If the action is `playVideo`, output: `\"Video memory usage: <memory> MB\"`\n- If the action is unsupported by the player type, output an error message: `\"Error: <PlayerType> does not support <audio/video> playback.\"`\n\n\n**Example 1:**\n```\nInput:\n2\nMultimediaPlayer\nplayAudio\n120\nMultimediaPlayer\nplayVideo\n300\n\nOutput:\nAudio memory usage: 60.0 MB\nVideo memory usage: 450.0 MB\n```\n\n**Example 2:**\n```\nInput:\n1\nMP3Player\nplayAudio\n100\n\nOutput:\nAudio memory usage: 50.0 MB\n```",
+        "difficulty": "medium",
+        "test_cases": [
+          {
+            "input": "2\nMultimediaPlayer\nplayAudio\n120\nMultimediaPlayer\nplayVideo\n300",
+            "output": "Audio memory usage: 60.0 MB \nVideo memory usage: 450.0 MB",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "1\nMP3Player\nplayAudio\n100",
+            "output": "Audio memory usage: 50.0 MB",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "2\nMP3Player\nplayAudio\n200\nMP3Player\nplayVideo\n150",
+            "output": "Audio memory usage: 100.0 MB\nError: MP3Player does not support video playback.",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nMultimediaPlayer\nplayAudio\n60\nMultimediaPlayer\nplayVideo\n120\nMP3Player\nplayAudio\n90",
+            "output": "Audio memory usage: 30.0 MB\nVideo memory usage: 180.0 MB\nAudio memory usage: 45.0 MB",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nMP3Player\nplayVideo\n200\nMultimediaPlayer\nplayAudio\n45",
+            "output": "Error: MP3Player does not support video playback.\nAudio memory usage: 22.5 MB",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nMultimediaPlayer\nplayVideo\n180",
+            "output": "Video memory usage: 270.0 MB",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nMP3Player\nplayAudio\n300\nMultimediaPlayer\nplayAudio\n60\nMultimediaPlayer\nplayVideo\n240",
+            "output": "Audio memory usage: 150.0 MB\nAudio memory usage: 30.0 MB\nVideo memory usage: 360.0 MB",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nMultimediaPlayer\nplayAudio\n150\nMP3Player\nplayAudio\n120",
+            "output": "Audio memory usage: 75.0 MB\nAudio memory usage: 60.0 MB",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nMultimediaPlayer\nplayVideo\n90\nMP3Player\nplayVideo\n100",
+            "output": "Video memory usage: 135.0 MB\nError: MP3Player does not support video playback.",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  },
+  {
+        "title": "OOP_CA5_Prog_Q10",
+        "content": "Design a Weather Alert System that can process multiple weather conditions (e.g., Sunny, Rainy, Snowy) and send notifications based on the severity of each condition. Implement the Dependency Inversion Principle to ensure that high-level modules are not dependent on low-level modules, but both depend on abstractions.\n\n**Key Instructions:**  \n**1. Define an Abstract Class:**  \nCreate an abstract class called `WeatherCondition` with the following methods:\n   - **protected** method `checkWeather()`: Returns a message based on the weather condition.\n   - **protected** method `checkSeverity()`: Returns a message based on the severity level.\n   - **protected** method `displayNotification()`: Combines the outputs of `checkWeather()` and `checkSeverity()` and displays a notification message.\n\n**2. Implement Concrete Classes:**  \nCreate the following classes that inherit from `WeatherCondition`:\n   1. **Sunny**\n   2. **Rainy**\n   3. **Snowy**  \nEach class should override the methods `checkWeather()` and `checkSeverity()` to display the appropriate notifications.\n\n**3. Notification Rules:**  \n- **For the `checkWeather()` method**:\n   - Return a message in the format: `\"Today is <condition>\"` based on the given weather condition.  \n- **For the `checkSeverity()` method**:\n   - If the severity level is 0-1, return the message: `\"Low alert!\"`\n   - If the severity level is greater than 1, return the message: `\"High alert!\"`\n\n- The `displayNotification()` method should combine the messages from `checkWeather()` and `checkSeverity()`.\n\n**Input format:**\n1. An integer `n` representing the number of weather conditions to process.\n2. The next `n` lines each contain:\n   - `<Condition>` (e.g., Sunny, Rainy, Snowy)\n   - `<Severity>` (an integer indicating the severity level)\n\n**Output format:**  \nDisplay the output for each condition in the format:\n```\nToday is <Condition>. <Alert level message>\n```\n\n\n**Example-1:**\n```\nInput:\n---------\n3\nSunny\n1\nRainy\n3\nSnowy\n2\n\nOutput:\n---------\nToday is Sunny. Low alert!\nToday is Rainy. High alert!\nToday is Snowy. High alert!\n```\n\n",
+        "difficulty": "medium",
+        "test_cases": [
+          {
+            "input": "3\nSunny\n1\nRainy\n3\nSnowy\n2",
+            "output": "Today is Sunny. Low alert!\nToday is Rainy. High alert!\nToday is Snowy. High alert!",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "2\nSunny\n0\nSnowy\n1",
+            "output": "Today is Sunny. Low alert!\nToday is Snowy. Low alert!",
+            "visibility": "visible",
+            "points": 2
+          },
+          {
+            "input": "4\nRainy\n0\nRainy\n2\nSunny\n3\nSnowy\n4",
+            "output": "Today is Rainy. Low alert!\nToday is Rainy. High alert!\nToday is Sunny. High alert!\nToday is Snowy. High alert!",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "1\nSunny\n5",
+            "output": "Today is Sunny. High alert!",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "3\nSnowy\n1\nSnowy\n2\nRainy\n0",
+            "output": "Today is Snowy. Low alert!\nToday is Snowy. High alert!\nToday is Rainy. Low alert!",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nRainy\n3\nSunny\n1",
+            "output": "Today is Rainy. High alert!\nToday is Sunny. Low alert!",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "5\nSunny\n2\nRainy\n0\nSunny\n4\nSnowy\n1\nRainy\n5",
+            "output": "Today is Sunny. High alert!\nToday is Rainy. Low alert!\nToday is Sunny. High alert!\nToday is Snowy. Low alert!\nToday is Rainy. High alert!",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "4\nSnowy\n3\nSnowy\n0\nSunny\n2\nRainy\n1",
+            "output": "Today is Snowy. High alert!\nToday is Snowy. Low alert!\nToday is Sunny. High alert!\nToday is Rainy. Low alert!",
+            "visibility": "hidden",
+            "points": 3
+          },
+          {
+            "input": "2\nSunny\n0\nRainy\n4",
+            "output": "Today is Sunny. Low alert!\nToday is Rainy. High alert!",
+            "visibility": "hidden",
+            "points": 3
+          }
+        ]
+      
+  }
+]
